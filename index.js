@@ -9,5 +9,10 @@ import ImageDemo from './ImageDemo';
 import FlexBoxDemo from './FlexBoxDemo';
 import ScrollViewDemo from './ScrollViewDemo';
 import FlatListDemo from './FlatListDemo';
+import TextInputDemo from './TextInputDemo';
+import ButtonDemo from './ButtonDemo';
+import ActivityIndicatorDemo from './ActivityIndicatorDemo';
+import WebViewDemo from './WebViewDemo';
+import PickerDemo from './PickerDemo';
 
-AppRegistry.registerComponent(appName, () => FlatListDemo);
+AppRegistry.registerComponent(appName, () => PickerDemo);

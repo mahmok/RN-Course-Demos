@@ -10,5 +10,10 @@ Current Demos:
 4. Text
 5. FlatLists with Touchable Opacity
 6. StyleSheets Usage
+7. TextInput
+8. WebView
+9. Buttons
+10. ActivityIndicator
+11. Picker
 
 __Don't forget to run (npm i) command after cloning project.__
